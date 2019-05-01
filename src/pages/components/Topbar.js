@@ -18,7 +18,7 @@ import { authLogout } from '../../store/auth'
 
 const Topbar = styled.div`
   position: fixed;
-  width: 100%;
+  width: 100vw;
   height: 80px;
   z-index: 999;
   background: ${props => (props.transparent ? 'transparent' : '#0b0c23')};

@@ -9,10 +9,9 @@ const AlertContainer = styled.div`
   z-index: 9999;
   position: fixed;
   bottom: 0;
-  right: 0;
-  margin: 25px;
-  min-width: 400px;
-  max-width: 400px;
+  right: 25px;
+  min-width: 300px;
+  max-width: calc(100% - 50px);
 `
 
 const Index = ({ alert, alertRemove }) => {

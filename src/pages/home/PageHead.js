@@ -32,7 +32,8 @@ const TopPage = styled(Container)`
     height: 60vh;
   }
   @media (max-width: 576px) {
-    height: 100vh;
+    height: 120vh;
+    padding-top: 10vh;
   }
 `
 const CardImage = styled.img`
