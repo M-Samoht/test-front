@@ -7,7 +7,7 @@
 * [react-router (router)](https://reacttraining.com/react-router/web/guides/quick-start)
 * [redux (store)](https://redux.js.org/)
 * [spring (animations)](https://www.react-spring.io/)
-* [Formik (form handler)](https://www.react-spring.io/)
+* [Formik (form handler)](https://jaredpalmer.com/formik/)
 
 ### installation
 
